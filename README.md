@@ -1,6 +1,6 @@
 # Seda Kavlak
 
-AI Engineer, Visiting Scholar at UC San Diego
+AI Engineer and Software Developer
 
 I got into machine learning through fieldwork in West Africa, where I needed a classifier to solve a conservation problem and realised this was what I wanted to do. First-author publication in *African Primates* (2025). Currently focused on RAG systems and reinforcement learning for LLMs.
 
