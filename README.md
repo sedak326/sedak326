@@ -2,7 +2,7 @@
 
 AI Engineer and Software Developer
 
-I got into machine learning through fieldwork in West Africa, where I needed to use ML to solve a conservation probem. I realized then how much fun programming and ML is and never looked back. First-author publication in *African Primates* (2025). Currently focused on building and evaluating RAG systems and reinforcement learning for LLMs.
+Former primatologist who discovered ML while working with chimps in West Africa. Got tired of living in the jungle, now I am building tools using LLMs and RAG. First-author publication in *African Primates* (2025). 
 
 ---
 
