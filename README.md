@@ -2,8 +2,6 @@
 
 AI Engineer and Software Developer
 
-Former primatologist who discovered ML while working with chimps in West Africa. Got tired of living in the jungle, now I am building tools using LLMs and RAG. First-author publication in *African Primates* (2025). 
-
 ---
 
 ### Current Projects
